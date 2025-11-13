@@ -196,5 +196,26 @@
         "overwrite_amount": 499000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    }
+    },
+    {
+        "name": "EduConference 30GB",
+        "price": "Rp10",
+        "detail": "Kuota 30GB untuk Aplikasi Edukasi/Conference.\nHanya bisa dibeli oleh pengguna Biz Ori",
+        "packages": [
+            {
+                "family_name": "EduConference",
+                "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
+                "option_name": "EduConference 30GB, Rp.10",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 10,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
 ]
