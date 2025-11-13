@@ -1,26 +1,200 @@
 [
     {
-        "family_name": "Unlimited Turbo",
-        "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
-        "is_enterprise": false,
-        "variant_name": "For Xtra Combo",
-        "option_name": "TikTok",
-        "order": 6
+        "name": "BIZ Lite",
+        "price": "Rp35000",
+        "detail": "Paket Bisnis Lite 30 Hari. Unlimited WA & Line & Call ke XL/AXIS.\nKalo penasaran dor aja, nanti juga refund kalo gagal.\nBiz Ori katanya bisa beli ini.",
+        "packages": [
+            {
+                "family_name": "BIZ Manufacture",
+                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Manufacture",
+                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
+                "option_name": "BIZ Lite",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 35000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     },
     {
-        "family_name": "Newcomer Promo",
-        "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
-        "is_enterprise": false,
-        "variant_name": "Xtra Combo",
-        "option_name": "1GB + 1GB",
-        "order": 1
+        "name": "BIZ Essential",
+        "price": "Rp59000",
+        "detail": "Paket Bisnis Essential 30 Hari. Unlimited WA & Line & Call ke XL/AXIS.\nKalo Coid bakal di refund katanya.\nBiz Ori Support beli ini.",
+        "packages": [
+            {
+                "family_name": "BIZ Manufacture",
+                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Manufacture",
+                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
+                "option_name": "BIZ Essential",
+                "order": 2
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 59000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     },
     {
-        "family_name": "Video & Music",
-        "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
-        "is_enterprise": false,
-        "variant_name": "Vidio",
-        "option_name": "Vidio",
-        "order": 1
+        "name": "BIZ Elite",
+        "price": "Rp100000",
+        "detail": "Paket Bisnis Elite 30 Hari. Unlimited WA & Line & Call ke XL/AXIS.\nBuat yang unl-unli aja.",
+        "packages": [
+            {
+                "family_name": "BIZ Manufacture",
+                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Manufacture",
+                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
+                "option_name": "BIZ Elite",
+                "order": 3
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 100000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Ultra",
+        "price": "Rp150000",
+        "detail": "Paket Bisnis Ultra 30 Hari. Unlimited WA & Line & Call ke XL/AXIS.\nTidak cocok untuk kaum mundang mending.",
+        "packages": [
+            {
+                "family_name": "BIZ Manufacture",
+                "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Manufacture",
+                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
+                "option_name": "BIZ Ultra",
+                "order": 4
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 150000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Starter",
+        "price": "Rp49000",
+        "detail": "Termasuk 30GB Kuota Conference. Unlimited WA & Line & Call ke XL/AXIS.\nBiz Ori only.\nKartu XL biasa kalo gagal beli bakal di refund (mungkin?).",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Starter",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 49000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Prime",
+        "price": "Rp99000",
+        "detail": "Termasuk 30GB Kuota Conference. Unlimited WA & Line & Call ke XL/AXIS.\n Indonesia merdeka karena para pemudanya tidak ragu",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Prime",
+                "order": 2
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 99000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Pro",
+        "price": "Rp149000",
+        "detail": "Termasuk 30GB Kuota Conference. Unlimited WA & Line & Call ke XL/AXIS.\nHanya untuk user penggiat Unlimited.",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Pro",
+                "order": 3
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 149000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Maxima",
+        "price": "Rp249000",
+        "detail": "Termasuk 30GB Kuota Conference. Unlimited WA & Line & Call ke XL/AXIS.\nAnda bakal Auto Tampan dan disukai oleh Carmen H2H jika membeli paket ini.",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Maxima",
+                "order": 4
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 249000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BIZ Infinity",
+        "price": "Rp499000",
+        "detail": "Termasuk 30GB Kuota Conference. Unlimited WA & Line & Call ke XL/AXIS.\nINFINITY, TEMBUS SAMPAI ALAM SEMESTA\nPAKET YANG HANYA BISA DIBELI OLEH RAFATHAR DAN CIPUNG.",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Infinity",
+                "order": 5
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 499000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     }
 ]
