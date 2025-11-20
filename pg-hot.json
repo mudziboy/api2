@@ -27,7 +27,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 7500,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -58,7 +58,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 4500,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -89,7 +89,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 4500,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -120,7 +120,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 4500,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -151,7 +151,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 3000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -182,7 +182,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 3000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -213,7 +213,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 3000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -244,7 +244,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 3000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -275,7 +275,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 3000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     }
-                ]
+]
