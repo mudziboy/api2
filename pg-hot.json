@@ -25,10 +25,10 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 1200,
+        "overwrite_amount": 12000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    }
+    },
     {
         "name": "BPA S 1K",
         "price": "Rp1000",
@@ -104,21 +104,21 @@
                 "order": 31
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_name": "Bonus Kuota 15GB",
+                "family_code": "864d43cb-7f32-46ad-aed5-6e199fad851f",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
+                "variant_code": "6f0b93a2-a591-4b7b-bc40-367e08dfa6fb",
+                "option_name": "EWALLET & QRIS 5K",
+                "order": 4
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 5000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    }
+    },
     {
         "name": "Call of Duty + Unlimited 3Hari",
         "price": "Rp7500",
@@ -397,4 +397,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
-                ]
+]
