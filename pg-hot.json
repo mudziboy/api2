@@ -1,6 +1,6 @@
 [
     {
-        "name": "Conference 15 GB",
+        "name": "Conference 15GB",
         "price": "Rp10000",
         "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
         "packages": [
@@ -8,7 +8,7 @@
                 "family_name": "Conference",
                 "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
                 "is_enterprise": true,
-                "migration_type": "NONE",
+                "migration_type": "ADD_ON",
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
                 "option_name": "Conference 15GB",
                 "order": 3
