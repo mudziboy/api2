@@ -1,17 +1,17 @@
 [
     {
-        "name": "Call of Duty + Unlimited 3Hari",
-        "price": "Rp7500",
-        "detail": "\nUnlimited Call of Duty FUP 60GB.\nTutor Inject bisa Cari Di Grup.",
+        "name": "Conference 15 GB",
+        "price": "Rp10000",
+        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
         "packages": [
             {
-                "family_name": "Xtra Unlimited Turbo Plus",
-                "family_code": "9cd2f58c-c64d-43df-9e6f-225a6461951d",
-                "is_enterprise": false,
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "8035fc91-a61e-40ef-8b57-37f98896fb0f",
-                "option_name": "Call of Duty",
-                "order": 4
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 15GB",
+                "order": 3
             },
             {
                 "family_name": "QRIS D 0",
@@ -25,7 +25,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 7500,
+        "overwrite_amount": 10000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
