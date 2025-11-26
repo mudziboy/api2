@@ -124,6 +124,130 @@
         "amount_idx": -1
     },
     {
+        "name": "AddOn FB XCP 15GB",
+        "price": "Rp5000",
+        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug FB support Jateng",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
+                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 15GB",
+                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
+                "option_name": "Facebook 15GB",
+                "order": 6
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "AddOn IG XCP 15GB",
+        "price": "Rp5000",
+        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug IG support Jabar",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
+                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 15GB",
+                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
+                "option_name": "Instagram 15GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "AddOn TT XCP 15GB",
+        "price": "Rp5000",
+        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug TIKTOK support All TKP",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
+                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 15GB",
+                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
+                "option_name": "TikTok 15GB",
+                "order": 8
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "AddOn WA XCP 15GB",
+        "price": "Rp5000",
+        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug WA buat para suhu inject",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
+                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 15GB",
+                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
+                "option_name": "WhatsApp 15GB",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "Add on Sosmed 7GB",
         "price": "Rp4500",
         "detail": "Beli dulu paket XCP di dorV2\nFB, IG, TIKTOK.",
