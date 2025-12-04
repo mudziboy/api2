@@ -155,37 +155,6 @@
         "amount_idx": -1
     },
     {
-        "name": "Paket Hoki",
-        "price": "Rp15000",
-        "detail": "Kouta bonus tergantung area\nContoh Area 3 dapet 30GB\nHarus Fresh Imei\nCek imei bisa kesini: http://imei.xlaxiata.my.id\nMasa Aktif 30 Hari\nRagumu Rugiku",
-        "packages": [
-            {
-                "family_name": "Xtra Combo Flex - SP After",
-                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Xtra Combo Flex",
-                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "SP Pelanggan Baru, 15rb, 30hr",
-                "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 15000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
         "name": "AddOn FB XCP 15GB",
         "price": "Rp5000",
         "detail": "Beli dulu paket XCP 5GB di dorV2\nBug FB support Jateng",
@@ -557,4 +526,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
-                ]
+        ]
