@@ -13,15 +13,6 @@
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
                 "option_name": "Conference 15GB",
                 "order": 3
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -44,15 +35,6 @@
                 "variant_code": "c2271e07-1016-4164-93fb-03bae708f016",
                 "option_name": "CATCHPLAY+",
                 "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -75,15 +57,6 @@
                 "variant_code": "e0535647-eafc-46cd-aeee-9af12f5750e7",
                 "option_name": "Netflix",
                 "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -106,15 +79,6 @@
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "Education 15GB",
                 "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -137,15 +101,6 @@
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "Video Conference 15GB",
                 "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -168,15 +123,6 @@
                 "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
                 "option_name": "Facebook 15GB",
                 "order": 6
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -199,15 +145,6 @@
                 "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
                 "option_name": "Instagram 15GB",
                 "order": 5
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -230,15 +167,6 @@
                 "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
                 "option_name": "TikTok 15GB",
                 "order": 8
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -261,15 +189,6 @@
                 "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
                 "option_name": "WhatsApp 15GB",
                 "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -292,15 +211,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Social Media 7GB",
                 "order": 2
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -323,15 +233,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Games 7GB",
                 "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -354,15 +255,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Streaming 7GB",
                 "order": 3
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -385,15 +277,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Social Media 7GB",
                 "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -416,15 +299,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Instagram 7GB",
                 "order": 6
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -447,15 +321,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Facebook 7GB",
                 "order": 7
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -478,15 +343,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "Youtube 7GB",
                 "order": 8
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -509,15 +365,6 @@
                 "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
                 "option_name": "TikTok 7GB",
                 "order": 9
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -526,4 +373,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
-        ]
+]
