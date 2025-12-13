@@ -1,6 +1,6 @@
 [
     {
-        "name": "Conference 15GB",
+        "name": "Conference Plan 15GB (New)",
         "price": "Rp10000",
         "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
         "packages": [
@@ -18,50 +18,6 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 10000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Edukasi 15GB",
-        "price": "Rp15000",
-        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
-        "packages": [
-            {
-                "family_name": "Work \u0026 School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "Work \u0026 School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 15GB",
-                "order": 4
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 15000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Conference V2 15GB",
-        "price": "Rp20000",
-        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
-        "packages": [
-            {
-                "family_name": "Work \u0026 School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "Work \u0026 School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Video Conference 15GB",
-                "order": 1
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 15000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
