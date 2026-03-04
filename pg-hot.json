@@ -1,7 +1,7 @@
 [
     {
         "name": "Conference Plan 15GB (New)",
-        "price": "Rp11000",
+        "price": "Rp10000",
         "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
         "packages": [
             {
@@ -19,7 +19,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 10000,
         "token_confirmation_idx": 1,
-        "amount_idx": 0
+        "amount_idx": -1
     },
     {
         "name": "AddOn FB XCP 15GB",
